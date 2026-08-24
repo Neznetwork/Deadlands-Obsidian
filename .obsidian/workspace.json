@@ -11,14 +11,12 @@
             "id": "efa705920a14b039",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lugares/Cidades/Angical.md",
-                "mode": "preview",
-                "source": false
+                "file": "Tecnologias/ZSRC/matinta.png"
               },
-              "icon": "lucide-file",
-              "title": "Angical"
+              "icon": "lucide-image",
+              "title": "matinta"
             }
           }
         ]
@@ -182,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 984.5
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,9 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d41f00d5623d3ac9",
+  "active": "efa705920a14b039",
   "lastOpenFiles": [
     "Rivais/Magarefes.md",
+    "Lugares/Cidades/Angical.md",
     "Lugares/Cidades/Correntão.md",
     "Tecnologias/Serras de Magarefe.md",
     "Lugares/Estabelecimentos/Matadouro de Santa Perpétua.md",
@@ -224,7 +223,6 @@
     "Lugares/Cidades/Junco.md",
     "Tecnologias/ZSRC/NovaCanaan.png",
     "Tecnologias/Soldados Mecânicos.md",
-    "Pessoas/Aníbal Talho.md",
     "Tecnologias/ZSRC/mineradores.png",
     "Tecnologias/ZSRC/matinta.png",
     "Rivais",
