@@ -1,0 +1,4 @@
+>Está vestido como um trapeiro. Não lhe restam mais do que uns fiapos descoloridos no crânio pelado e pouquíssimos dentes na boca, e essa lastimosa condição de bisavô ensopado o desprove de qualquer grandeza. As suas asas de abutre velho, sujas e meio depenadas, estão encalhadas no lodaçal.
+
+O Anjo de [[João Sarena]] é um homem que caiu do céu na cidade de mesmo nome. Um ser de milagres não confiáveis, fez com que um paralítico quase ganhasse na loteria, um leproso crescesse flores de suas feridas e um cego ouvisse cores.
+O tal anjo fala em um dialeto estranho, diferente do latim, e é tratado pela população local como uma atração de circo. Todos os dias, durante o meio dia, no chamado "horário do anjo", a população se junta para assistir ele, que está acorrentado no galinheiro da casa de Maria do Ribeiro.

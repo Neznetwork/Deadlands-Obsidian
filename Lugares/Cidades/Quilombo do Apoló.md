@@ -1,0 +1,2 @@
+O Apoló é um quilombo escondido numa parte alta dos [[Cânions da Matinta]], onde o vento forte e a geografia local previne que fuligem alcance o povoado. Ainda assim, o Apoló lida com temperaturas muito elevadas.
+[[Porcina de Lourdes]] morou aqui antes de ser beatificada.

@@ -1,0 +1,1 @@
+Vilarejo onde cresceu [[Gregório Sansão]] e toda sua família. O vilarejo tinha uma complexa rivalidade entre os Cunha, a parte da família que estudou e roubou tecnologias do [[Querosene Fantasma e Febre de Mauá|Barão de Mauá]] e os Ferreira, a parte da família que estudava e cultuava o oculto.

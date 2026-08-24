@@ -1,0 +1,1 @@
+Localizada no cerrado, Harpia é a cidade de origem da [[Família Pacheco de Albuquerque]] e onde fica o [[Engenho Pacheco de Albuquerque]]. É também a cidade onde nasceu [[Lázaro da Silva]].

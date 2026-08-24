@@ -1,0 +1,1 @@
+Cidade onde [[Euricélio Matos]] e [[Cornélio Sussurro]] viajaram, em 1888, com diferentes objetivos. Membros da Guarda Nacional descreveram Cornélio com muita precisão, o deixando temeroso. Euricélio segue para Remanso, onde assassina [[Arcídio Salustiano|Fabrício Manoel]].

@@ -1,0 +1,7 @@
+Em 1814, com revoltas populares e conflitos armados entre a coroa e a população culminando numa tentativa de separação da Província do Caiambé, D. João VI mandou dividir o território de Caiambé. Uma dessas divisões resultou no Estado caótico de Caxiri.
+
+O governador apontado pela Coroa para administrar a nova província, Homero Peregrino, foi morto por revolucionários por ter traído a revolução de Caiambé. Seu irmão, Maceu Peregrino, assumiu o poder em seu lugar e suprimiu forçosamente as forças revolucionárias, promovendo enforcamentos, esquartejamentos, fuzilamentos, imolação e profanação de cadáveres.
+
+Maceu governou até 1822, quando foi estabelecida uma junta administrativa, em poder até 1889. Os Peregrinos, entretanto, continuam uma das mais influentes famílias em Caxiri. O maior engenho da província pertence à família, e [[Francisco de Paula Peregrino]], atual patriarca, faz parte do [[Triunvirato Caxirense|triunvirato]] que governa o estado.
+
+A Família Peregrino era centralista até o fim da guerra do Paraguai, mas, notando a tendência do país, tornou-se parte do **Partido Republicano Federalista**, defendendo a manutenção do status quo e do mantimento de Francisco como o governador do estado, rivalizando o Partido Republicano Federalista, representado por seus rivais, a [[Família Pacheco de Albuquerque]].

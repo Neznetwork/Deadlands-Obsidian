@@ -1,0 +1,1 @@
+Marechal Peregrino é um engenho de açúcar pertencente à família [[Família Peregrino|Peregrino]], e onde morava [[Francisco de Paula Peregrino]] antes de se mudar para [[Nova Canãa]] após ser nomeado representante do [[Triunvirato Caxirense]]. Francisco tenta visitar o engenho da família ao menos uma vez ao mês, para lidar com a burocracia latifundiária e rever sua esposa.

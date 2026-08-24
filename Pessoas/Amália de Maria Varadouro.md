@@ -1,0 +1,1 @@
+Filha dos donos do [[0 - Poupe a Vara|Sítio do Varadouro]], mortos por um grupo de ocultistas em sua própria fazenda. Os [[Jagunços de Emerico Borges]] a resgataram e ela foi adotada em [[São Roque]], se tornando irmã de [[Eunice Prado]].

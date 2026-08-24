@@ -1,0 +1,2 @@
+>É fácil entender o nome dele. Boca Fortuna tem todos os dentes de sua boca feitos de ouro, e mesmo calado, tem os lábios partidos, que difícil saber se é natural ou se se ensinou a ser assim para amostrar sua riqueza a todo momento. Boca Fortuna é caboclo avermelhado, com as penugens de barba contidas inteiramente na bochecha e alguns ainda mais curtinhos acima dos lábios, e tem o cabelo liso de indígena.
+

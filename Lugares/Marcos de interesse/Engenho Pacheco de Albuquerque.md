@@ -1,0 +1,1 @@
+Destruído por um incêndio fora de controle, o Engenho Pacheco Albuquerque foi reconstruído ao longo de 12 anos e serve como residência da [[Família Pacheco de Albuquerque]], em [[Harpia]]

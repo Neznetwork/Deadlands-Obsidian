@@ -1,0 +1,1 @@
+Coronel Sepúlveda Prefeito é o representante dos militares no [[Triunvirato Caxirense]]. Junto com [[Frei Domingo]] e [[Francisco de Paula Peregrino]], ele governa o estado de Caxiri.

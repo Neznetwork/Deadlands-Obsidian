@@ -1,0 +1,3 @@
+Coronel Joaquim “O maneta” Rodrigues: um homem bastante velho de altura média, pele branca, bigode que passa bastante respeito e apelido que dispensa descrições (só tem braço esquerdo até o cotovelo), já aposentado do exército, nascido em 1809 (81 anos) e com incontáveis histórias de sua época de guerrilha que podem ser vistas por meio de suas incontáveis cicatrizes, sempre foi considerado um homem de respeito, poderoso e de pulso firme. Por um bom tempo, foi um dos superiores que [[Cornélio Sussurro]] era mais próximo, diferente dos outros, Joaquim sempre pareceu ter ideais parecidos com o dele.
+
+Joaquim Maneta, em sua velhice, se tornou um assíduo monarquista e, morando em [[Nova Canãa]], está conspirando para o retorno do antigo sistema.

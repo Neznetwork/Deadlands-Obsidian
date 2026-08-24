@@ -1,0 +1,5 @@
+**Tema da facção:** <u>violência é fácil; o bem é uma escolha constante e difícil.</u>
+
+O Bando do Pastor Negro é um grupo de bandoleiros que ocupa o Sertão Caxirense, perto da fronteira sul estadual. De passado misterioso, o Pastor Negro foi sempre um homem temido, bruto e violento, e facilmente saiu de um valentão local para um bandoleiro regional. 7 Anos atrás, após entrar em conflito com a Coroa e sair ferido e com quase nenhum homem sobrando, o Pastor Negro desbravou os [[Cânions da Matinta]] e pediu para a [[Matinta Pereira]] que fizesse um feitiço de Corpo Fechado nele. O Pastor pagou caro pelo feitiço, e metaforicamente vendeu sua alma. Dali em diante, sua crueldade e violência só aumentaram, e pouco a pouco, o Pastor perdeu sua humanidade.
+
+Atualmente, o bando está passando por uma cisão, num conflito entre os leais ao Pastor Negro e aqueles que querem matá-lo e substituí-lo, pois não conseguem mais seguir um homem tão autoritário e com tão pouco descaso pela vida humana. Esse segundo grupo é liderado pelo seu ex braço direito, o bandoleiro chamado de [[Boca Fortuna]].

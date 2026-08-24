@@ -1,0 +1,3 @@
+Conhecida por sua feira, Pedra Redonda é uma cidade artesanal de couro e roupas. É porta de entrada pro sertão, e é portanto, um *hub* de passagem de contrabandistas. Ainda mais, é uma cidade passagem para artistas errantes e circos de cavalinho.
+Em 1872, [[Belmiro Pacheco Filho]] e seus jagunços reconheceram e caçaram [[Lázaro da Silva]] para retorná-lo para o [[Engenho Pacheco de Albuquerque]]. Feirantes de Pedra Redonda foram atingidos por balas perdidas, e Belmiro culpou Lázaro pelo ocorrido, tornando o ex-escravizado em foragido por Pedra Redonda e região.
+O que mais chama atenção na cidade, atualmente, é a estranha pirâmide egípcia, em construção no canto da cidade: a pirâmide de Giselle, homenagem à esposa do intendente da cidade, [[Emiliano Sabugo]].

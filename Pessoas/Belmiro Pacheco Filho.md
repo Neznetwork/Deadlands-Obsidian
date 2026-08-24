@@ -1,0 +1,3 @@
+>"É um homem mais velho, de cinquenta anos, vestido quase todo de verde escuro e branco. Seu cabelo é longo e cinza, e recuado de forma que deixa sua testa muito grande, num estilo que remete mais ao século passado. Tem a cara pelada, parece que passou a navalha há menos de 24h. Não faz, ainda por cima, menção de esconder a pistola prateada em seu cinto."
+
+Atual patriarca da [[Família Pacheco de Albuquerque]], Belmiro é aliado político de [[Frei Domingo]], [[Emiliano Sabugo]] e [[Aníbal Talho]], além de rival de [[Arcídio Salustiano]] e, claro, [[Francisco de Paula Peregrino]].

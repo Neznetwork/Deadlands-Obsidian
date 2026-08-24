@@ -1,0 +1,3 @@
+> Um homem de cabelos grisalhos e barba branca, vestido sempre de couro, das cabeças aos pés, e nunca carregando menos que três armas e duas cartucheiras de couro. Seu olhar plácido parece que foi um erro divino, onde os anjos colocaram acidentalmente os olhos de um bebê num homem mau.
+
+Alexandre Anjinho é o braço direito de [[Emerico Borges]], traduzindo suas olhadelas para os [[Jagunços de Emerico Borges|jagunços]] e o resto de [[São Roque]].

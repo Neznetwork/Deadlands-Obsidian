@@ -1,0 +1,8 @@
+![[matinta.png|500]]
+
+Matinta Pereira é uma bruxa velha que assombrava as casas dos moradores dos [[Cânions da Matinta]]. Vindo em sua forma de pássaro, um Tapéra, ela solta seu grito horripilante para sinalizar a sua vinda, e em resposta, os moradores da casa fazem uma oferenda para ela. No dia seguinte, ela cobra a oferenda em forma de velha. Para os que ignoram ou se recusam a atender o chamado da Matinta, ela amaldiçoa a pessoa e o lar, fadando o lar à perdição.
+Em algum momento no começo do século 19, a Matinta sumiu, de forma que todos desaprenderam a etiqueta e passaram a desacreditar em sua lenda. Quando ela retornou, em 1864, todos os municípios nos cânions ignoraram seu chamado, e assim, a Matinta amaldiçoou a região a queimar para todo o sempre.
+
+A verdade é que não existe apenas uma Matinta Pereira. O cargo é uma maldição passada entre mulheres, e deve ser passada quando a Matinta percebe que está perto da morte. A atual Matinta, que assumiu a maldição em 1964, era uma mulher fulni-ô da região da [[Serra do Jamurú]] chamada Filithya Keseya.
+
+Em 1883, a Matinta Pereira foi visitada pelo [[Bando do Pastor Negro|Pastor Negro]], que desbravou o fogo para pedir a ela um feitiço de corpo-fechado. Ela em troca mandou que matasse toda sua cidade natal e enterrasse nela um jumento num túmulo cavado por suas próprias mãos. Feito sua parte do acordo, a Matinta tornou-o impérvio à ataques.

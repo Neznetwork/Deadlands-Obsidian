@@ -1,0 +1,1 @@
+Povoado de 1.000 hectares e município a qual [[São Roque]] pertence. Seu intendente é o Tenente-Coronel [[Arcídio Salustiano]].

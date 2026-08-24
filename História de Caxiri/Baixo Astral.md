@@ -1,0 +1,3 @@
+Uma enorme egrégora formada pelos maus pensamentos e atitudes dos espíritos--encarnados ou não--que existe em paralelo ao mundo físico. O Baixo Astral é habitado por espíritos obsessivos conhecidos como [[Quiumba]].
+
+É possível tentar forçar dimensões de espaço e tempo no Baixo Astral, para que mortais possam acessá-lo, mas é uma empreitada incrivelmente perigosa, pois as dimensões são ainda maleáveis até um certo ponto pelos Kiumbas, e esse plano é subjetivo E receptivo à pensamentos e sentimentos negativos, podendo manifestar os maiores medos de uma pessoa e trazer à tona suas maiores inseguranças.

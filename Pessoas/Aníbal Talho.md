@@ -1,0 +1,10 @@
+> "Aníbal é impressionantemente alto, especialmente para um sujeito tão largo. Tem um pescoço grosso e solto, uma testa grande e sólida e orelhas flácidas. Calvando pelo topo da cabeça, sua franja neandertal cobre o indício de entradas da testa. Aníbal tem ombros largos e caídos, braços longos e mãos que podem cobrir todo o rosto, e destoa das roupas caras que usa de forma que só um homem bruto consegue. É como uma onça de terno cáqui."
+
+Uma figura influente de [[Santa Perpétua]], membro de seu conselho municipal e mais poderoso que o intendente local, Aníbal Talho é o dono do [[Matadouro de Santa Perpétua|matadouro da cidade]]. Como todo mundo que é alguém em Santa Perpétua, Aníbal procura o tesouro de [[Pompéia]] e está disposto a dividir o tesouro com quem quer que o ajude a encontrar.
+
+Açougueiro de nascença, Aníbal é o terceiro de onze irmãos. Ele e seu irmão imediatamente mais novo nasceram em [[São Desidério]] mas se mudaram para Santa Perpétua para esfolar animais no mercado de Pancadas. Com o crescimento da clientela em seu açougue, se revelou a necessidade de ampliar o espaço físico do negócio e os irmãos Talho compraram um armazém no centro da cidade, e depois outro, e depois mais um, até Aníbal deixar pra trás a função de açougueiro e se tornar um magarefe, e de açougue, o armazém virou matadouro.
+Doze anos atrás, seu irmão morreu de varíola durante a grande seca de 77. Nesse período de três anos, Aníbal quase faliu, e por isso se tornou bastante preocupado com dinheiro. Com sinais de uma nova seca vindo, ele quer mais do que nunca o tesouro de Pompéia, para assegurar seu poder na cidade.
+
+Aníbal é também um aliado político da [[Família Pacheco de Albuquerque]] e do Partido Republicano Constitucional, que melhor refletem os interesses do poder industrialista em Caxiri, do qual ele faz parte como dono do Matadouro.
+
+Aníbal Talho tem gratidão para com [[Bastião Barril]] por conter um touro furioso antes que matasse alguém e lhe deve um favor por isso.

@@ -1,0 +1,1 @@
+Garota, filha de retirantes mortos por [[0 - Poupe a Vara|um grupo ocultista]] que massacrou e tomou conta do Sítio do Varadouro em 1889. A menina foi levada a [[São Roque]] pelos [[Jagunços de Emerico Borges]], onde foi adotada e começou sua nova vida. Se tornou irmã por adoção de [[Amália de Maria Varadouro]].

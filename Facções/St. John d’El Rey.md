@@ -1,0 +1,2 @@
+St. John d'El Rey é uma empresa britânica de mineração que financia as operações de diversas minas pelo nordeste e sudeste brasileiro. Uma de suas operações conhecidas é a mina de diamantes em [[Procissão Penada]], onde é operada pelo gerente [[Matheus Salazar]].
+Recentemente, a empresa foi roubada de um carregamento de 28 dinamites por um toneleiro chamado [[João Veríssimo]], que em sua estupidez, planeja desviar o curso de um rio para dentro de uma propriedade que não é legalmente sua para vender água para a cidade de Procissão Penada, que está contaminada.

@@ -1,0 +1,3 @@
+Isabela Aran é a líder dos trabalhadores gerais do [[Matadouro de Santa Perpétua|Matadouro]] de [[Santa Perpétua]]. Ganhou o favor de [[Aníbal Talho]] há um ano e se tornou a capataz do abatedouro. Ela entretanto só tem influência entre o operariado do Matadouro, tendo pouca influência entre os [[Magarefes]].
+Sem que Aníbal Talho saiba, ela é na verdade uma infiltradora profissional, paga por [[Morenike de Jacu e Mocó]] para que ficasse de olho na rota em Santa Perpétua. Isabela nem é seu nome de verdade.
+Com a caça pelo tesouro de [[Pompéia]], Isabela foi dada a ordem para desestabilizar o Matadouro, para distrair Aníbal enquanto os contrabandistas procuram o tal tesouro. Ela tem aos poucos convencido os trabalhadores a entrarem em greve contra as condições locais.

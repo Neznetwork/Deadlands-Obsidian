@@ -1,0 +1,3 @@
+Um cientista maluco e artista caxiriense, aprendiz do [[Querosene Fantasma e Febre de Mauá|Visconde de Mauá]], Heitor retornou para Nova Canaã recentemente, na intenção de modernizar a capital do estado. Ele é responsável pela introdução da tecnologia de Parede de Luz, Pilar de Arco e Charrete Elétrica em Caxiri.
+
+Heitor é o inventor dos [[Soldados Mecânicos]] que estão sendo adotados pela aristocracia brasileira.

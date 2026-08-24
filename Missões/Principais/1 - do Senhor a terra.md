@@ -1,0 +1,10 @@
+> "*É aqui, em [[São Roque]], uma cidade que não é particularmente importante, numa província que não é particularmente relevante, que vieram duzentos homens para matar [[Euricélio Matos]].*"
+
+- [x] Escutar o que o estranho tem a dizer.
+- [x] Atenda ao funeral de Euricélio Matos.
+
+3 de Janeiro, 1890. O Tenente-Coronel [[Arcídio Salustiano]] da Guarda Nacional, intendente do município de [[Fundo-da-Copa]], aparece em São Roque com notícias: que o Brasil é agora uma [[Coronel Arcídio Salustiano da República|república]], e que o [[Triunvirato Caxirense]] passou o distrito de São Roque para o município de Arcídio no novo recorte do estado.
+
+Como seu primeiro ato, Arcídio julga e executa [[Euricélio Matos]] e deixa São Roque com um aviso: no dia 18 de Maio, eleições por prefeito aconteceriam por todo o estado, e que ele lançaria em breve seu candidato. No enterro de Euricélio, os [[Jagunços de Emerico Borges|jagunços]], agora sob liderança de [[Emerico Borges]], declaram sua intenção de expandir o seu bando, que nada pôde contra o exército de 200 homens de Arcídio. Emerico torna-se cínico com os métodos de Euricélio, que procurava prender os bandoleiros da região, preferindo por se debruçar na violência e na matança. Emerico e [[Alexandre Anjinho]] pedem ao grupo que encontrem e recrutem o [[Bando do Pastor Negro]].
+
+[[Dom Ivo|D. Ivo]], por outro lado, decide que, sem Euricélio, mais bandidos serão atraídos para São Roque, e que com a crise política do país, mais peregrinos serão atraídos pela presença de Porcina. Decidindo tomar uma atitude, o bispo de São Roque começa a bolar um plano desesperado para manter a paz em São Roque e expulsar os bandidos. Mas para que possa atuar em seus planos, ele precisará de tempo para maquinar algo. Assim, D. Ivo pede para que o grupo procure o [[P. Fernando Arduíno]], um homem competente e estudado que atua na cidade de [[Angical]].

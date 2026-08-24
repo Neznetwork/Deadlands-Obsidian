@@ -1,0 +1,5 @@
+> Mãe Menininha foi prostituta por muito tempo e é hábil com a maquiagem, conseguindo esconder dez de seus cinquenta e quatro anos com seis produtos. De cinza em seu cabelo cacheado, só as raízes, o resto se mantém forte. Mãe Menininha, riscada de estrias, tem o abdômen de circunferência larga e saliente seus peitos pesados com roupas reveladoras.
+
+Menininha Lins e Silva, também chamada de Mãe Menininha, é a Cafetina do Bordel Gaio Azul, em [[Santa Perpétua]]. Uma mulher fria e inteligente, ela está usando suas cortesãs para procurar o tesouro de [[Pompéia]] para enriquecer e, com alguma sorte, falir [[Aníbal Talho]] no processo.
+
+Na realidade, Mãe Menininha já encontrou o tesouro de Pompéia, e está lançando suas cortesãs aos leões para desestabilizar Aníbal e reduzir sua força de magarefes. Ela planeja se tornar a pessoa mais influente de Santa Perpétua e não se importa com algumas muitas vidas perdidas no processo de conseguir o que quer.

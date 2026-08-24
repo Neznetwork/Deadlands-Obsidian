@@ -1,0 +1,1 @@
+Povoado onde [[Porcina de Lourdes]] e [[Lázaro da Silva]] foram, em 1888, abençoar uma pobre mulher que havia passado por abortos espontâneos. A caminho dela, o grupo foi atacado por uma [[0 - Daniel na Cova dos Leões|Suçuarana]].

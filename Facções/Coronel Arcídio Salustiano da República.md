@@ -1,0 +1,3 @@
+**Temas da facção:** <u>Agora que você mudou o mundo, qual seu lugar nele?; Lealdades a quem te usa.</u>
+
+Após a proclamação da república, [[Arcídio Salustiano]], intendente do município de [[Fundo-da-Copa]], recebe o distrito de [[São Roque]], que é agregado ao Fundo-da-Copa. Arcídio, que já não se dá com [[Euricélio Matos]] pois este matou Fabrício Manuel, compadre de Arcídio, quer que Euricélio renuncie sua autoridade e quer colocar presença policial na cidade. Euricélio rejeita a proposta e paga o preço com uma bala na cabeça.

@@ -1,0 +1,9 @@
+**Tema da facção:** <u>Emerico Borges e o ciclo da violência e da vingança.</u>
+
+[[São Roque]] não tem presença da polícia. Na verdade, é o oposto; é policiada por (ex-)criminosos.
+
+Para aqueles procurados pela Coroa, pela polícia ou pelo tribunal da opinião pública, a cidade tornou-se um refúgio para quem busca mudar de vida. Inicialmente sob tutela de [[Euricélio Matos]] e agora sob liderança de [[Emerico Borges]], esses jagunços mantêm um semblante de ordem da maneira que melhor conhecem: com as armas. Mas se impor é necessário quando todo mundo anda com uma faca na cintura.
+
+A lei dos jagunços funciona bem, na medida do possível. Bandidos errantes já não ousam atacar São Roque, e a criminalidade permanece baixa. No entanto, Euricélio não pode levar sozinho o crédito pela paz. Seu homem de confiança, Emerico Borges, é quem executa suas ordens e coloca seus homens na linha. Emerico chegou na cidade ainda bandido, armado e temido, de passagem e sem planos de ficar. Seus planos mudaram após ser chamado para uma conversa na casa de Euricélio. O que quer que tenha dito, funcionou. Ele saiu dali um homem convicto e, nos meses que se seguiram, dedicaram-se a trazer justiça pros bandos que atacavam São Roque e crescer o número da nova causa. Dali em diante, homens de toda Caxiri vieram pra se juntar aos Jagunços de Euricélio Matos e Emerico Borges
+
+Um grupo de jagunços que fugiram para São Roque e sob tutela de Euricélio Matos, mantém um certo semblante de ordem na comunidade, apesar de que, com a morte de Euricélio Matos, Emerico Borges assume o comando dos Jagunços e se tornam ainda mais assíduos em seu policiamento brutal e sua resistência a Coronel [[Arcídio Salustiano]].

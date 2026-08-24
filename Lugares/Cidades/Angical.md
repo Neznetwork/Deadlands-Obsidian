@@ -1,0 +1,3 @@
+>*“A cidadezinha é espalhada pelas costas de um morro, e quase toda casa aponta ao nordeste. São duas ruas principais, a debaixo de terra e a de cima, de cascalho, e a igreja fica no ponto mais alto de Angical.”*
+
+Lar do [[P. Fernando Arduíno]], Angical é uma cidade pequena, de aproximadamente 200 habitantes, composta principalmente de fazendeiros de subsistência. [[2 - O Princípio da Sabedoria é o Temor.|O grupo passou por essa cidade]] em Janeiro de 1890 à procura de Fernando Arduíno para assumir o ensino da escolinha de [[São Roque]].

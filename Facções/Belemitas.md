@@ -1,0 +1,1 @@
+Grupo de fundamentalistas que rejeitam [[Porcina de Lourdes]] como santa e cultuam o martírio de [[Golias]].

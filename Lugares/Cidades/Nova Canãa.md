@@ -1,0 +1,6 @@
+![[NovaCanaan.png|700]]
+
+Nova Canãa é a capital do estado de Caxiri, localizado na costa leste do território, na Zona da Mata. É uma grande metrópole de influência Portuguesa e Francesa, construída dentro de uma floresta de Rapóaçu -- árvores colossais que crescem apenas em Caxiri. As árvores mais altas e mais antigas, aquelas grandes demais para serem derrubadas, permanecem presentes por boa parte da cidade, e produzem um terreno desigual por Nova Canaã.
+As camadas políticas de Caxiri, que se concentram nessa cidade, se dividem entre o partido Republicano Federalista, aliado aos [[Família Peregrino|Peregrinos]], e o partido Republicano Constitucionalista, aliada aos [[Família Pacheco de Albuquerque|Albuquerque]]. A diferença entre os dois partidos é mínima, só muda quem está exercendo poder a dado momento. Apesar de não ser um partido, o Monarquismo é popular em Caxiri, e conta com a maior quantidade de apoiadores do povão (e até alguns militares mais insatisfeitos, em especial a Marinha), que no geral, têm sido prejudicado pela nova [[Coronel Arcídio Salustiano da República|república]] e seus impostos.
+
+**Fear Level:** Varia entre bairros.
