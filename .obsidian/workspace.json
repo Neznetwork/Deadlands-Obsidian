@@ -11,12 +11,14 @@
             "id": "efa705920a14b039",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Tecnologias/ZSRC/matinta.png"
+                "file": "Emiliano Sabugo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "matinta"
+              "icon": "lucide-file",
+              "title": "Emiliano Sabugo"
             }
           }
         ]
@@ -196,6 +198,8 @@
   },
   "active": "efa705920a14b039",
   "lastOpenFiles": [
+    "Emiliano Sabugo.md",
+    "Tecnologias/ZSRC/matinta.png",
     "Rivais/Magarefes.md",
     "Lugares/Cidades/Angical.md",
     "Lugares/Cidades/Correntão.md",
@@ -222,9 +226,7 @@
     "Rivais/Escorpião Capa-Preta.md",
     "Lugares/Cidades/Junco.md",
     "Tecnologias/ZSRC/NovaCanaan.png",
-    "Tecnologias/Soldados Mecânicos.md",
     "Tecnologias/ZSRC/mineradores.png",
-    "Tecnologias/ZSRC/matinta.png",
     "Rivais",
     "Sem título.canvas",
     "Tecnologias/ZSRC",
