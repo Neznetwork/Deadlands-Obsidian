@@ -1,1 +1,1 @@
-Intendente da cidade de [[Pedra Redonda]]. aa
+Intendente da cidade de [[Pedra Redonda]]. Honrado e 
