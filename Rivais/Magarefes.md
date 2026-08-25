@@ -10,7 +10,7 @@ Magarefes são capazes de causar bastante dano em combate corpo-a-corpo e em com
 
 **Mental:**  
 **Cog**: 3d6, **Knw:** 3d6, **Mi:** 3d10, **Sm:** 1d4, **Sp**: 1d8  
-**Bluff:** 1d10; **Guts** 3d8+2; **Leadership (only sawmen):** 3d10; **Overawe:** 5d10+2; **Scrutinize:** 2d6; **Search:** 2d6; **Streetwise:** 4d4; **Tinkering:** 3d4; **Trade (Magarefe):** 3d6.
+**Bluff:** 1d10; **Guts** 4d8+2; **Leadership (only sawmen):** 3d10; **Overawe:** 5d10+2; **Scrutinize:** 2d6; **Search:** 2d6; **Streetwise:** 4d4; **Tinkering:** 3d4; **Trade (Magarefe):** 3d6.
 
 **Pace:** 10
 **Size:** 7

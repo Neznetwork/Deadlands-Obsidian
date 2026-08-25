@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoas/Emiliano Sabugo.md",
+                "file": "Rivais/Magarefes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emiliano Sabugo"
+              "title": "Magarefes"
             }
           }
         ]
@@ -196,10 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9ed2493e6a7dcdd",
+  "active": "efa705920a14b039",
   "lastOpenFiles": [
-    "Tecnologias/ZSRC/README.md",
+    "Pessoas/Bastião Barril.md",
     "Pessoas/Emiliano Sabugo.md",
+    "Tecnologias/ZSRC/README.md",
     "Tecnologias/ZSRC/matinta.png",
     "Rivais/Magarefes.md",
     "Lugares/Cidades/Angical.md",
@@ -207,7 +208,6 @@
     "Tecnologias/Serras de Magarefe.md",
     "Lugares/Estabelecimentos/Matadouro de Santa Perpétua.md",
     "Lugares/Cidades/Santa Perpétua.md",
-    "Pessoas/Bastião Barril.md",
     "Pessoas/Isabela Aran.md",
     "Missões/Principais/0 - Daniel na Cova dos Leões.md",
     "Missões/Principais/2 - Bem Afortunado os Pacificadores.md",
