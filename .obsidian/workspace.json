@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d41f00d5623d3ac9",
+  "active": "efa705920a14b039",
   "lastOpenFiles": [
     "README.md",
     "Emiliano Sabugo.md",
