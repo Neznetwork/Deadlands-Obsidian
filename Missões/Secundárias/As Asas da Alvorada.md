@@ -1,4 +1,4 @@
- [[Victor Cunha]] precisa de ajuda para terminar sua mais nova invenção: um planador pessoal. Para isso, ele precisará da **pele de 3 Suçuaranas**, mortas no máximo 10 dias antes da entrega, e as **penas de 20 abutres**.
+ [[Victor Cunha]] precisa de ajuda para terminar sua mais nova invenção: um planador pessoal. Para isso, ele precisará da **pele de 3[[ Suçuaranas]]**, mortas no máximo 10 dias antes da entrega, e as **penas de 20 abutres**.
 
 **História I**
 **LEIA DEVAGAR, FAÇA INTERJEIÇÕES.**

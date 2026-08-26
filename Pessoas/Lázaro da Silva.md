@@ -71,7 +71,7 @@ A vengeful but inexperienced youth who is stalking the character, for example, w
 **Hankerin' 1** - If you just can’t think without a stogie in your pie-hole, you’ve got yourself a habit. If it’s alcohol or opium you’re craving, welcome to Addiction City, population one.
 *Mild*: Subtract –2 from Mental skills if the substance is not available after 24 hours.
 
-**Loco (Suçuarana); 2** - No one in their right mind would stand up to some of the critters in Deadlands. Maybe that’s why there are so many kooks wandering the High Plains. 
+**Loco ([[Suçuarana]]); 2** - No one in their right mind would stand up to some of the critters in Deadlands. Maybe that’s why there are so many kooks wandering the High Plains. 
 Loco covers all sorts of crazy. This can range from being absentminded to being a compulsive liar or suffering from phobias, delusions, depression, or schizophrenia. The illness is always present, and it rules your character’s actions most of the time. The value of the Hindrance depends on the severity of the illness and its effects on the character. You should discuss the exact dementia with the Marshal and work out the effects and penalties it has on your nutjob. 
 Phobias, by the way, usually inflict a -2 penalty when in the presence of the feared object or situation. This is usually a 2-point Hindrance unless the source of fear is very common, in which case the value is 3 or higher.
 

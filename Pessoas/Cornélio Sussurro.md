@@ -27,6 +27,10 @@ Cornélio não gosta dos militares, principalmente dos de mais alto escalão, po
 **Big Britches 3:** It’s good to be confident, but only a fool charges 600 cavalrymen into 5,000 Sioux.
 Your character is severely overconfident. He believes he can do anything, and he never turns down a challenge.
 
+**Loco ([[Escorpião Capa-Preta]]); 2** - No one in their right mind would stand up to some of the critters in Deadlands. Maybe that’s why there are so many kooks wandering the High Plains.  
+Loco covers all sorts of crazy. This can range from being absentminded to being a compulsive liar or suffering from phobias, delusions, depression, or schizophrenia. The illness is always present, and it rules your character’s actions most of the time. The value of the Hindrance depends on the severity of the illness and its effects on the character. You should discuss the exact dementia with the Marshal and work out the effects and penalties it has on your nutjob.  
+Phobias, by the way, usually inflict a -2 penalty when in the presence of the feared object or situation. This is usually a 2-point Hindrance unless the source of fear is very common, in which case the value is 3 or higher.
+
 **Loyal 3:** You may not be a hero, but your friends know they can count on you when the chips are down.
 Your character is extremely loyal to his friends. He willingly risks his life to defend them and protect them for danger.
 
