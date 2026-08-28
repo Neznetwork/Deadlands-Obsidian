@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoas/Arnott Garcia.md",
-                "mode": "source",
+                "file": "Tecnologias/Soldados Mecânicos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arnott Garcia"
+              "title": "Soldados Mecânicos"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "efa705920a14b039",
   "lastOpenFiles": [
-    "Facções/Belemitas.md",
     "Pessoas/Arnott Garcia.md",
+    "Facções/Belemitas.md",
     "Pessoas/Golias.md",
     "Rivais/Suçuarana.md",
     "Rivais/Escorpião Capa-Preta.md",

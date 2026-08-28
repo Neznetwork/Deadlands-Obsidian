@@ -9,11 +9,16 @@ Overawe 4d6; Search 4d10(2d6); Tracking 3d10(1d4)
 **Size:** 8
 **Terror:** 7
 **Special Abilities:**
-	**Armor:** 2
+	**Armor:** 2 (Corpo)
+	**To Hit:** TN 12 (10 + DB 2)
+
 **Dano:** Espadas (STR + 1d6)
-**Imunidades:** O soldado mecânico não é afetado por Wind e estresse físico ou emocional (fear e habilidades sociais, como Overawe e Persuasão). Magias que afetam apenas objetos animados, como *Soul Blast*, não têm efeito no Soldado Mecânico.
+**Descarga Elétrica:** Quando o Soldado Mecânico conseguir um Raise contra um inimigo em combate corpo-a-corpo, ele ganha a capacidade de usar uma Descarga Elétrica, custando uma carta de ação. A Descarga Elétrica causa 3d8 de dano direto ao Wind de todos personagens num raio de 12 metros. Após receber o dano, os personagens devem fazer um teste de Vigor TN 7 ou sofrer Stun.
+* [ ] Raise
+
+**Imunidades:** O soldado mecânico não é afetado por Wind e estresse físico ou emocional (fear e habilidades sociais, como ===Overawe e Persuasão===). Magias que afetam apenas objetos animados, como ===*Soul Blast*===, não têm efeito no Soldado Mecânico.
 **Morte:** Um Soldado Mecânico só pode ser morto em caso de acumulo de 5 *Wounds* no *Guts*. Alternativamente, se perder todos seus braços, o S.M. se auto destrói ao final do turno.
-**Decapitado:** A cabeça do soldado mecânico não é vital, mas contém seus sensores visuais e tem um encaixe frágil. Para o cálculo de Wound na cabeça, o S.M. age como se tivesse um *Size* 5. Se sua cabeça for destruída, traits e aptitudes com valores entre parênteses assumem seus menores valores. Além do mais, se estiver em combate, o S.M. passa a atacar sempre o personagem mais próximo, seja amigo ou inimigo. Se tiver muitos combatentes por perto, o S.M. escolhe uma pessoa aleatoriamente. 
+**Decapitado:** A cabeça do soldado mecânico não é vital, mas contém seus sensores visuais e tem um encaixe frágil. Para o cálculo de Wound na cabeça, o S.M. age como se tivesse um ==*Size* 5.== Se sua cabeça for destruída, traits e aptitudes com valores entre parênteses assumem seus menores valores. Além do mais, se estiver em combate, o S.M. passa a atacar sempre o personagem mais próximo, seja amigo ou inimigo. Se tiver muitos combatentes por perto, o S.M. escolhe uma pessoa aleatoriamente. 
 **Superaquecido:** Se *quebrar a banca*, o Soldado Mecânico superaquece e perde todas suas cartas de ação restantes.
 
 <h1> Gravações </h1>
@@ -74,7 +79,7 @@ Overawe 4d6; Search 4d10(2d6); Tracking 3d10(1d4)
 - _"Gravação indica uma mulher mais velha, desarmada._" (para Porcina)
 - "_Gravação indica um homem mais velho, armado._" (para Lázaro)
 - _"Hmm. Perfil militar, porém hostil."_ (para Cornélio)
-- _"Gravação indica um homem jovem, armado._" (para Gregório)
+- _"Gravação indica um homem armado._" (para Gregório)
 - _"Gravação indica um homem mais velho, desarmado._" (para Bastião)
 - _"Reprodução para protocolos de combate."_
 - _"Reprodução para inimigo inequívoco."_
