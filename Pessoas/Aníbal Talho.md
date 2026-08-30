@@ -7,4 +7,4 @@ Doze anos atrás, seu irmão morreu de varíola durante a grande seca de 77. Nes
 
 Aníbal é também um aliado político da [[Família Pacheco de Albuquerque]] e do Partido Republicano Constitucional, que melhor refletem os interesses do poder industrialista em Caxiri, do qual ele faz parte como dono do Matadouro.
 
-Aníbal Talho tem gratidão para com [[Bastião Barril]] por conter um touro furioso antes que matasse alguém e lhe deve um favor por isso.
+Aníbal Talho tem gratidão para com [[Bastião Manico]] por conter um touro furioso antes que matasse alguém e lhe deve um favor por isso.

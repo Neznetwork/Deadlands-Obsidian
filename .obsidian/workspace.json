@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74a1faeb49532e71",
+        "id": "2cf62eae34275236",
         "type": "tabs",
         "children": [
           {
-            "id": "efa705920a14b039",
+            "id": "b23c7c953cf39cd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Tecnologias/Soldados Mecânicos.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "Pessoas/Bastião Barril.md",
+                "bFile": "Pessoas/Bastião Barril.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Soldados Mecânicos"
+              "icon": "diff",
+              "title": "Diff: Bastião Barril  (Working Tree)"
             }
           }
         ]
@@ -196,35 +196,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efa705920a14b039",
+  "active": "b23c7c953cf39cd5",
   "lastOpenFiles": [
-    "Pessoas/Arnott Garcia.md",
-    "Facções/Belemitas.md",
-    "Pessoas/Golias.md",
-    "Rivais/Suçuarana.md",
-    "Rivais/Escorpião Capa-Preta.md",
-    "Pessoas/Lázaro da Silva.md",
-    "Lugares/Cidades/Santa Perpétua.md",
-    "Lugares/Cidades/Correntão.md",
-    "Missões/Secundárias/As Asas da Alvorada.md",
-    "Missões/Principais/0 - Daniel na Cova dos Leões.md",
-    "Pessoas/Cornélio Sussurro.md",
-    "Pessoas/Bastião Barril.md",
-    "Rivais/Magarefes.md",
-    "Pessoas/Emiliano Sabugo.md",
-    "Tecnologias/ZSRC/README.md",
-    "Tecnologias/ZSRC/matinta.png",
-    "Lugares/Cidades/Angical.md",
     "Tecnologias/Serras de Magarefe.md",
-    "Lugares/Estabelecimentos/Matadouro de Santa Perpétua.md",
-    "Pessoas/Isabela Aran.md",
-    "Missões/Principais/2 - Bem Afortunado os Pacificadores.md",
-    "Missões/Principais/2 - O Princípio da Sabedoria é o Temor..md",
-    "Missões/Principais/1 - do Senhor a terra.md",
-    "Pessoas/Boca Fortuna.md",
-    "Facções/Bando do Pastor Negro.md",
-    "Missões/Secundárias/Tão Certamente Como as Fagulhas Voam Para Cima.md",
+    "Tecnologias/Soldados Mecânicos.md",
+    "Rivais/Magarefes.md",
+    "Rivais/Suçuarana.md",
+    "Tecnologias/Cadeira Elétrica.md",
     "Missões/Secundárias/Onde Ladrões Cavam e Furtam.md",
+    "Pessoas/Cornélio Sussurro.md",
+    "Pessoas/Bastião Manico.md",
+    "História de Caxiri/Quilombos.md",
+    "Missões/Secundárias/Tão Certamente Como as Fagulhas Voam Para Cima.md",
+    "Missões/Secundárias/As Asas da Alvorada.md",
+    "Missões/Secundárias/Ladrão que Rouba Ladrão.md",
+    "Missões/Secundárias/Cartas Para um Pecador.md",
+    "Lugares/Cidades/São Roque.md",
+    "Pessoas/Eunice Prado.md",
+    "Missões/Principais/0 - Poupe a Vara.md",
+    "Pessoas/Isaque Altoé.md",
+    "Pessoas/Augusto Leitão.md",
+    "Missões/Principais/1 - do Senhor a terra.md",
+    "Pessoas/P. Fernando Arduíno.md",
+    "Pessoas/Seu Raimundo.md",
+    "Pessoas/Percival Perneta.md",
+    "Pessoas/O Anjo de João Sarena.md",
+    "Pessoas/Maria Dourado.md",
+    "Pessoas/Mãe Menininha.md",
+    "Pessoas/Mãe Dara.md",
+    "Tecnologias/ZSRC/matinta.png",
     "Tecnologias/ZSRC/NovaCanaan.png",
     "Tecnologias/ZSRC/mineradores.png",
     "Rivais",

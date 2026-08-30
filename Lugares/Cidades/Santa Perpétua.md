@@ -42,7 +42,7 @@ Pancadas é um bairro de classe trabalhadora, de casas pequenas e baixas. Lugare
 
 <h2>Anotações extra</h2>
 
-Já foi moradia de [[Bastião Barril]] e [[Gregório Sansão]].
+Já foi moradia de [[Bastião Manico]] e [[Gregório Sansão]].
 
 Bastião pagou aos negros escapados uma Pirita. Ao chegar em Santa Perpétua, Aníbal ofereceu-os emprego, mas não honrou o valor da Pirita.
 * João Grande

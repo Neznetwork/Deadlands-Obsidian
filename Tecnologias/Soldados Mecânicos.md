@@ -2,17 +2,20 @@ Soldados Mecânicos são uma invenção de [[Heitor Nazareth]], movidos à Quero
 
 <h2> Statblock </h2>
 
-**Corporeal:** Dft:2d6; Nmb:3d10; Qui:4d8; Str:2d12+2; Vig:2d12
-Dodge 4d10; Fighting: Sword 5d10
-**Mental:** Cog:3d10/(d6); Knw:1d4; Mien:2d6; Smrt:2d4; Spr:1d4
-Overawe 4d6; Search 4d10(2d6); Tracking 3d10(1d4)
+**Corporeal:**
+**Dft:** 2d6; **Nmb:** 3d10; **Qui:** 4d8; **Str:** 2d12+2; **Vig:** 2d12
+**Dodge:** 4d10; **Fighting: Sword** 5d10
+
+**Mental:** 
+**Cog:** 3d10/(d6); **Knw:** 1d4; **Mien:** 2d6; **Smrt:** 2d4; **Spr:** 1d4
+**Overawe:** 4d6; **Search:** 4d10(2d6); **Tracking:** 3d10(1d4)
 **Size:** 8
 **Terror:** 7
 **Special Abilities:**
 	**Armor:** 2 (Corpo)
 	**To Hit:** TN 12 (10 + DB 2)
 
-**Dano:** Espadas (STR + 1d6)
+**Dano:** Espadas (STR + 1d6) ou (STR + 2d6; 4 braços)
 **Descarga Elétrica:** Quando o Soldado Mecânico conseguir um Raise contra um inimigo em combate corpo-a-corpo, ele ganha a capacidade de usar uma Descarga Elétrica, custando uma carta de ação. A Descarga Elétrica causa 3d8 de dano direto ao Wind de todos personagens num raio de 12 metros. Após receber o dano, os personagens devem fazer um teste de Vigor TN 7 ou sofrer Stun.
 * [ ] Raise
 

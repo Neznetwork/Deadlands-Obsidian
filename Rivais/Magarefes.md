@@ -5,7 +5,7 @@ Magarefes são capazes de causar bastante dano em combate corpo-a-corpo e em com
 <h2>Ficha do Personagem</h2>
 
 **Físico:**  
-**Nim:** 2d10 **Qui**: 4d8, **Str** 3d12, **Vig** 3d8  
+**Def:** 2d8 **Nim:** 2d10 **Qui**: 4d8, **Str** 3d12, **Vig** 3d8  
 **Dodge** 2d10; **Fighting**: (Knife) 5d10, (Saw) 4d10; **Sneak** 1d10
 
 **Mental:**  

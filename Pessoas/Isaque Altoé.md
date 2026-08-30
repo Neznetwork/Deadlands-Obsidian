@@ -1,0 +1,3 @@
+Isaque é um [[Jagunços de Emerico Borges|jagunço]] na cidade de [[São Roque]]. Jovem e contrariado, ele discorda da decisão de [[Emerico Borges]] de recrutar o temido [[Bando do Pastor Negro]] para a cidade.
+Como várias pessoas de São Roque, ele é apaixonado por [[Amélia Nascimento]], a filha de [[Cornélio Sussurro]].
+Isaque, cansado do desrespeito, decide se aliar à [[Arcídio Salustiano]], e eventualmente volta para São Roque para chamar Emerico para um duelo. Ele morre sem qualquer cerimônia

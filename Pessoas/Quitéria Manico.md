@@ -1,1 +1,1 @@
-Mãe de [[Bastião Barril]]. Inválida, vive quase exclusivamente em [[Riacho dos Atoleiros]].
+Mãe de [[Bastião Manico]]. Inválida, vive quase exclusivamente em [[Riacho dos Atoleiros]].

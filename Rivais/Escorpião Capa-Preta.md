@@ -1,4 +1,5 @@
 <h2>Ficha Escorpião Largo</h2>
+
 **Físico:**  
 **Def:** 1d4, **Nim:** 2d12, **Qui**: 2d10, **Str** 3d8, **Vig** 3d6  
 **Climbing** 2d12; **Fighting**: (Brawling) 4d12; **Sneak** 4d12
