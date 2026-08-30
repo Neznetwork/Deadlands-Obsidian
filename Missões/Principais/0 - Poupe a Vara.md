@@ -10,3 +10,5 @@ Em 1889, [[Tibúrcio]] é sequestrado por um misterioso estranho ao arredor de [
 [[Bastião Manico]], [[Gregório Sansão]], [[Euricélio Matos]] e [[Emerico Borges]], juntos a [[Alexandre Anjinho]], André e Isaque, saem para procurar o garoto, levando-os pela trilha de sangue que os ocultistas deixaram. Um tiroteio ocorre no Sítio do Varadouro, e o grupo é forçado a um impasse com o líder rival. O tiroteio termina com Tibúrcio tomando uma arma do chão e atirando o líder pelo pescoço. 
 
 Os [[Jagunços de Emerico Borges]] resgatam o garoto, junto de [[Eunice Prado]], filha de um dos retirantes, e [[Amália de Maria Varadouro]].
+
+#mainquest 

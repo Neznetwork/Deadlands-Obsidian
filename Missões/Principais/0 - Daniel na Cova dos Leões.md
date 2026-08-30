@@ -10,3 +10,5 @@ Em 1888, [[Euricélio Matos]] leva [[Porcina de Lourdes]], [[Cornélio Sussurro]
 Os planos mudaram quando, na estrada a algumas horas de [[São Roque]], o grupo ouve gritos horripilantes e é emboscado por um vulto extremamente veloz. A criatura, uma [[Suçuarana]], mata os bois que serviam de transporte e ilham o grupo no meio da mata. Procurando um lugar seguro para passar a noite, o grupo acha um acampamento com dois boias-frias mortos, ouvindo dentro da mata as vozes de seus últimos momentos.
 
 Eles seguem por fim em direção a uma casa de taipa, onde encontram um casal morto pela besta. a Suçuarana provoca o grupo com os momentos finais do casal, e por fim, Euricélio, seguido de Cornélio, deixam a casa para confrontar a besta, matando-a quase ao custo da vida de Cornélio. Lázaro desenvolve uma fobia de suçuaranas e o grupo segue em viagem. Na volta, Euricélio mata [[Arcídio Salustiano|Fabricio Manoel]] e enterra seu corpo a caminho de Correntão. Somente Cornélio viu seu corpo.
+
+#mainquest

@@ -7,3 +7,5 @@ João escondeu as dinamites no túmulo vazio do qual seu pai foi removido e volt
 Há 7 homens na propriedade e 1 homem de rifle de precisão num rochedo por perto.
 
 João Veríssimo foi morto por Gregório.
+
+#rival 

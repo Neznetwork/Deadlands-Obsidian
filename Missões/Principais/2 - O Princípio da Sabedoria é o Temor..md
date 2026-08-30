@@ -16,3 +16,5 @@ Retornando à gruta, convencidos que o Padre estava do lado de dentro, o grupo a
 Após retornarem do sítio Descanso de Salomão, o grupo permaneceu em Procissão Penada por mais cinco dias, até o dia 14 de Janeira, terça-feira. Quando o Padre acordou, questionaram o que ele fazia lá e ele explicou que pensava haver um servo do tranca rua nas redondezas. Ele não esperava uma ameaça física e foi capturado pelos animais.
 
 A caminho de [[Santa Perpétua]], o Padre Arduíno deixou o grupo e seguiu em direção à São Roque para se encontrar com D. Ivo.
+
+#mainquest 

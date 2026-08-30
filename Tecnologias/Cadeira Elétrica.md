@@ -31,3 +31,5 @@ A cada 3 Choques, o personagem deve fazer um teste de Vigor adicional, TN 7. Em 
 **6 - 10 Major Malfunction:** A vítima ganha uma Madness.
 
 **11 - 12 Catastrophe:** A cadeira dá defeito e a eletricidade age de maneira estranha, lançando para todos os lados e causando 3d8 de dano a todos num raio de 10 metros.
+
+#madsci

@@ -11,14 +11,10 @@
             "id": "b23c7c953cf39cd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Missões/Secundárias/Ladrão que Rouba Ladrão que Rouba Ladrão.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ladrão que Rouba Ladrão que Rouba Ladrão"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -55,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#mainquest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,32 +194,32 @@
   },
   "active": "b23c7c953cf39cd5",
   "lastOpenFiles": [
-    "Missões/Secundárias/Onde Ladrões Cavam e Furtam.md",
-    "Rivais/Escorpião Capa-Preta.md",
+    "Pessoas/João Veríssimo.md",
+    "Pessoas/Golias.md",
+    "Pessoas/Emiliano Sabugo.md",
+    "Pessoas/Arcídio Salustiano.md",
+    "Pessoas/Arnott Garcia.md",
     "Rivais/Suçuarana.md",
-    "Tecnologias/Soldados Mecânicos.md",
     "Rivais/Magarefes.md",
-    "Tecnologias/Cadeira Elétrica.md",
+    "Rivais/Escorpião Capa-Preta.md",
+    "Tecnologias/Soldados Mecânicos.md",
     "Tecnologias/Serras de Magarefe.md",
+    "Tecnologias/Cadeira Elétrica.md",
+    "Missões/Principais/2 - O Princípio da Sabedoria é o Temor..md",
+    "Missões/Principais/2 - Bem Afortunado os Pacificadores.md",
+    "Missões/Principais/1 - do Senhor a terra.md",
+    "Missões/Principais/0 - Daniel na Cova dos Leões.md",
+    "Missões/Principais/0 - Poupe a Vara.md",
+    "Missões/Secundárias/Tão Certamente Como as Fagulhas Voam Para Cima.md",
+    "Missões/Secundárias/Onde Ladrões Cavam e Furtam.md",
+    "Missões/Secundárias/Ladrão que Rouba Ladrão que Rouba Ladrão.md",
+    "Missões/Secundárias/Cartas Para um Pecador.md",
+    "Missões/Secundárias/As Asas da Alvorada.md",
+    "Tecnologias/ZSRC/README.md",
     "Pessoas/Cornélio Sussurro.md",
     "Pessoas/Bastião Manico.md",
     "História de Caxiri/Quilombos.md",
-    "Missões/Secundárias/Tão Certamente Como as Fagulhas Voam Para Cima.md",
-    "Missões/Secundárias/As Asas da Alvorada.md",
-    "Missões/Secundárias/Ladrão que Rouba Ladrão que Rouba Ladrão.md",
-    "Missões/Secundárias/Cartas Para um Pecador.md",
     "Lugares/Cidades/São Roque.md",
-    "Pessoas/Eunice Prado.md",
-    "Missões/Principais/0 - Poupe a Vara.md",
-    "Pessoas/Isaque Altoé.md",
-    "Pessoas/Augusto Leitão.md",
-    "Missões/Principais/1 - do Senhor a terra.md",
-    "Pessoas/P. Fernando Arduíno.md",
-    "Pessoas/Seu Raimundo.md",
-    "Pessoas/Percival Perneta.md",
-    "Pessoas/O Anjo de João Sarena.md",
-    "Pessoas/Maria Dourado.md",
-    "Pessoas/Mãe Menininha.md",
     "Tecnologias/ZSRC/matinta.png",
     "Tecnologias/ZSRC/NovaCanaan.png",
     "Tecnologias/ZSRC/mineradores.png",

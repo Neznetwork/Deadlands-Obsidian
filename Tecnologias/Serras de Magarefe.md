@@ -19,3 +19,5 @@ As estatísticas da Serra de Magarefe são as seguintes:
 **6 - 10 Defeito Grande:** A serra se solta da máquina e voa em direção ao usuário. É necessário um teste de Nimbleness TN 11 para não ser pego pela lâmina, ou sofrerá 2d10 de dano. Requer 3 cartas de ações e um teste de Tinkering TN 9 para consertar.
 
 **11 - 12 Catástrofe:** O tanque explode sozinho, como detalhado acima.
+
+#madsci

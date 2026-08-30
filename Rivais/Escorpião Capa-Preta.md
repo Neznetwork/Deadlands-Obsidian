@@ -35,3 +35,5 @@
 **Emboscada** Escorpiões desse tamanho fazem buracos perto das estradas, permitindo que eles surpreendam suas vítimas facilmente. Um teste TN 11 de Cognition permite que o jogador perceba a armadilha.
 **Dano:** Ferrão (STR+Veneno)
 **Veneno:** Vigor TN 11. Num sucesso, o personagem leva 4d6 de dano adicional ao Guts. Falha significa morte em 1d6 rodadas, tempo por qual o herói cai ao chão como se tivesse 0 de wind. Um teste de Medicine TN 11 previne a morte, mas o herói permanece incapacitado por um número de dias igual a quantidade pela qual errou o TN.
+
+#rival 

@@ -24,6 +24,8 @@ Soldados Mecânicos são uma invenção de [[Heitor Nazareth]], movidos à [[Que
 **Decapitado:** A cabeça do soldado mecânico não é vital, mas contém seus sensores visuais e tem um encaixe frágil. Para o cálculo de Wound na cabeça, o S.M. age como se tivesse um ==*Size* 5.== Se sua cabeça for destruída, traits e aptitudes com valores entre parênteses assumem seus menores valores. Além do mais, se estiver em combate, o S.M. passa a atacar sempre o personagem mais próximo, seja amigo ou inimigo. Se tiver muitos combatentes por perto, o S.M. escolhe uma pessoa aleatoriamente. 
 **Superaquecido:** Se *quebrar a banca*, o Soldado Mecânico superaquece e perde todas suas cartas de ação restantes.
 
+#madsci #rival
+
 <h1> Gravações </h1>
 
 ### Inativo

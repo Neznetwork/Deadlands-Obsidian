@@ -9,3 +9,5 @@ Arcídio também faz um “cerco” em São Roque, dificultando a viagem para o 
 **Detalhe Físico:** Arcídio está sempre alisando o bigode com os dedos.
 
 **Padrão Verbal:** Sempre cuspindo entre palavras.
+
+#rival 

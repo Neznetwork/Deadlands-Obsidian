@@ -2,6 +2,8 @@ Magarefes são inimigos comuns em qualquer área onde gado precisa ser abatido, 
 Magarefes vêm em duas variedades: aqueles equipados com longos cutelos e aqueles equipados com [[Serras de Magarefe]] alimentadas por [[Querosene Fantasma e Febre de Mauá|Arché refinada]]. Estes tem tanques de Arché amarrados às suas costas. Eles agem como trabalhadores em matadouros e açougues, abatendo bois e cortando sua carne e seu couro.
 Magarefes são capazes de causar bastante dano em combate corpo-a-corpo e em combate à distância também, usando o dispensor de suas serras.
 
+#rival
+
 <h2>Ficha do Personagem</h2>
 
 **Físico:**  

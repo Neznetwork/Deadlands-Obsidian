@@ -11,3 +11,5 @@ No dia seguinte, Cornélio se envolve tanto com Aníbal quanto com Mãe Menininh
 Bastião deu voltas procurando a identidade do grevista, mas não pareceu chegar em lugar algum.
 
 Cornélio, sem ideia de como prosseguir, foi ao cemitério, levando ao pé-da-letra o que Mãe Menininha falou sobre onde Pedro poderia está. Lá, encontrou três contrabandistas escavando um corpo, na esperança que fosse Pompéia, mas que foram prontamente mortos por três damas da noite -- Délia e Diamantina, do Gaio Azul, e Gabriela, da Casa Madrugada. Cornélio, munido de coragem e atitude, formou uma aliança com as três, e descobriu quem era Pompéia e da existência do seu tal tesouro. Ficando para trás para enterrar o corpo, Cornélio foi surpreendido por três magarefes, que o atacaram com facão e serrote, e o levaram para a [[Cadeira Elétrica]] do matadouro.
+
+#sidequest

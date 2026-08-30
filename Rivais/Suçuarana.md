@@ -25,3 +25,5 @@ Suçuaranas são predadores solitários.
 **Visão Noturna:** Desde que haja qualquer tipo de luz, como a da lua, a Suçuarana consegue enxergar como se fosse dia. Ela não consegue ver em escuridão total, mas seus outros sentidos compensam, garantindo apenas um -4 para testes.
 **Garras Preênsil:** As garras de uma Suçuarana são flexíveis, permitindo que carregue objetos numa distância curta. Suas garras traseiras também são muito fortes, permitindo que se pendure com elas.
 **Gato Sortudo:** A Suçuarana puxa ==ao menos três Cartas de Ação== quando faz seu teste de Quickness. Para puxar mais, ela precisa de 3 raises.
+
+#rival 

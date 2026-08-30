@@ -10,6 +10,7 @@ Hoje, com a influência e fama de Porcina se espalhando, e Golias acreditado mor
 
 Golias hoje mora nas quebradas do [[Descampado Macalé]], em acampamentos e num estilo de vida nômade, se mantendo vivo a partir da terra, um trabalho difícil que é facilitado pelo seu treino como bandeirante.
 
+#rival 
 <h1>Ficha do Personagem</h1>
 
 **Físico:**
