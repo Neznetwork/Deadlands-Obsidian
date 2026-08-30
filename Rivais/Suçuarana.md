@@ -2,7 +2,7 @@ Suçuarana é a prima sobrenatural da Onça-Parda. De uma inteligência chocante
 A criatura também usa sua voz para imitar pedidos de ajuda em voz natural. Seu método favorito de emboscada é escalando galhos sobressalientes e atrair a vítima para debaixo. Assumindo sua posição, a Suçuarana tenta arrastar sua presa para o topo da árvore, onde rapidamente esquarteja e devora a vítima. Frequentemente, Suçuaranas deixam os restos mortais nos galhos, confundindo caçadores.
 Suçuaranas são predadores solitários.
 
-<h2>Ficha</h2>
+<h2>Statblock</h2>
 
 **Físico:**  
 **Def:** 2d6, **Nim:** 3d12, **Qui**: 2d12+2, **Str** 4d12, **Vig** 2d10  

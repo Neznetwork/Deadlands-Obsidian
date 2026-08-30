@@ -31,7 +31,7 @@ Em 1972, São Roque enfrentou uma epidemia de varíola, controlada apenas graça
 ### Mudanças
 <h3>Retorno 1</h3>
 
-- Com a morte de [[Euricélio Matos]], bandidos da região perderam medo de atacar São Roque. [[Augusto Leitão]] tentou parar os roubos no sítio dos milagres, mas levou um corte no colarinho de um dos bandidos. (Sidequest: [[Ladrão que Rouba Ladrão]])
+- Com a morte de [[Euricélio Matos]], bandidos da região perderam medo de atacar São Roque. [[Augusto Leitão]] tentou parar os roubos no sítio dos milagres, mas levou um corte no colarinho de um dos bandidos. (Sidequest: [[Ladrão que Rouba Ladrão que Rouba Ladrão]])
 - [[Arcídio Salustiano]] mandou um volante policial para se estabelecer na cidade, [[Emerico Borges]] matou todos os policiais e colocou seus corpos em exposição ao redor da cidade.
 - [[Isaque Altoé]], Jagunço contrariado da cidade, pede para Cornélio a mão de [[Amélia Nascimento]] em casamento.
 - [[Amália de Maria Varadouro]] é creditada com Clarividência após adivinhar onde se encontrava um poço d'água.

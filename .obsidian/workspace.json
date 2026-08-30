@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologias/Soldados Mecânicos.md",
-                "mode": "source",
+                "file": "Missões/Secundárias/Ladrão que Rouba Ladrão que Rouba Ladrão.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soldados Mecânicos"
+              "title": "Ladrão que Rouba Ladrão que Rouba Ladrão"
             }
           }
         ]
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,18 +198,19 @@
   },
   "active": "b23c7c953cf39cd5",
   "lastOpenFiles": [
-    "Tecnologias/Cadeira Elétrica.md",
+    "Missões/Secundárias/Onde Ladrões Cavam e Furtam.md",
+    "Rivais/Escorpião Capa-Preta.md",
     "Rivais/Suçuarana.md",
     "Tecnologias/Soldados Mecânicos.md",
-    "Tecnologias/Serras de Magarefe.md",
     "Rivais/Magarefes.md",
-    "Missões/Secundárias/Onde Ladrões Cavam e Furtam.md",
+    "Tecnologias/Cadeira Elétrica.md",
+    "Tecnologias/Serras de Magarefe.md",
     "Pessoas/Cornélio Sussurro.md",
     "Pessoas/Bastião Manico.md",
     "História de Caxiri/Quilombos.md",
     "Missões/Secundárias/Tão Certamente Como as Fagulhas Voam Para Cima.md",
     "Missões/Secundárias/As Asas da Alvorada.md",
-    "Missões/Secundárias/Ladrão que Rouba Ladrão.md",
+    "Missões/Secundárias/Ladrão que Rouba Ladrão que Rouba Ladrão.md",
     "Missões/Secundárias/Cartas Para um Pecador.md",
     "Lugares/Cidades/São Roque.md",
     "Pessoas/Eunice Prado.md",
@@ -223,7 +224,6 @@
     "Pessoas/O Anjo de João Sarena.md",
     "Pessoas/Maria Dourado.md",
     "Pessoas/Mãe Menininha.md",
-    "Pessoas/Mãe Dara.md",
     "Tecnologias/ZSRC/matinta.png",
     "Tecnologias/ZSRC/NovaCanaan.png",
     "Tecnologias/ZSRC/mineradores.png",
