@@ -11,14 +11,14 @@
             "id": "b23c7c953cf39cd5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Pessoas/Bastião Barril.md",
-                "bFile": "Pessoas/Bastião Barril.md",
-                "aRef": ""
+                "file": "Tecnologias/Soldados Mecânicos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Bastião Barril  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Soldados Mecânicos"
             }
           }
         ]
@@ -198,11 +198,11 @@
   },
   "active": "b23c7c953cf39cd5",
   "lastOpenFiles": [
-    "Tecnologias/Serras de Magarefe.md",
-    "Tecnologias/Soldados Mecânicos.md",
-    "Rivais/Magarefes.md",
-    "Rivais/Suçuarana.md",
     "Tecnologias/Cadeira Elétrica.md",
+    "Rivais/Suçuarana.md",
+    "Tecnologias/Soldados Mecânicos.md",
+    "Tecnologias/Serras de Magarefe.md",
+    "Rivais/Magarefes.md",
     "Missões/Secundárias/Onde Ladrões Cavam e Furtam.md",
     "Pessoas/Cornélio Sussurro.md",
     "Pessoas/Bastião Manico.md",

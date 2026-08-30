@@ -1,4 +1,4 @@
-Soldados Mecânicos são uma invenção de [[Heitor Nazareth]], movidos à Querosene Fantasma refinada. Altos e imponentes, revestidos em madeira, os soldados mecânicos são facilmente reconhecidos por suas cabeças aviárias características, e seus quatro braços laminares. Escondidos em seu crânio está um par de óticas caras, que permitem ao soldado uma visão frontal e traseira, garantindo uma percepção elevada.
+Soldados Mecânicos são uma invenção de [[Heitor Nazareth]], movidos à [[Querosene Fantasma e Febre de Mauá|querosene fantasma]] refinada. Altos e imponentes, revestidos em madeira, os soldados mecânicos são facilmente reconhecidos por suas cabeças aviárias características, e seus quatro braços laminares. Escondidos em seu crânio está um par de óticas caras, que permitem ao soldado uma visão frontal e traseira, garantindo uma percepção elevada.
 
 <h2> Statblock </h2>
 
