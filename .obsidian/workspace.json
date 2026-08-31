@@ -11,14 +11,14 @@
             "id": "b23c7c953cf39cd5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Pessoas/Augusto Leitão.md",
-                "bFile": "Pessoas/Augusto Leitão.md",
-                "aRef": ""
+                "file": "Pessoas/Augusto Leitão.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Augusto Leitão  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Augusto Leitão"
             }
           }
         ]
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
