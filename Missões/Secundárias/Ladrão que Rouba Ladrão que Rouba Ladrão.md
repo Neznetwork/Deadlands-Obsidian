@@ -1,5 +1,7 @@
 Com a morte de [[Euricélio Matos]], bandoleiros criam coragem de assaltar os arredores de [[São Roque]]. O Sítio dos Milagres foi um tal lugar atacado, levando as 20 cabeças de gado de [[Gregório Sansão]] e ferindo seu sócio, [[Augusto Leitão]]. O roubo aconteceu um dia antes deles voltarem, e os ladrões deixaram um rastro.
 
+"O Sítio dos Milagres "
+
 ## Primeiros Ladrões
 
 Tracking TN 3 leva ao acampamento dos bandidos originais, que foram mortos por uma segunda leva de bandidos.
