@@ -11,14 +11,14 @@
             "id": "b23c7c953cf39cd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Pessoas/Augusto Leitão.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Pessoas/Augusto Leitão.md",
+                "bFile": "Pessoas/Augusto Leitão.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Augusto Leitão"
+              "icon": "diff",
+              "title": "Diff: Augusto Leitão  (Working Tree)"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mainquest",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,9 +198,10 @@
   },
   "active": "b23c7c953cf39cd5",
   "lastOpenFiles": [
-    "Pessoas/Augusto Leitão.md",
-    "Pessoas/Arcídio Salustiano.md",
     "Missões/Secundárias/Ladrão que Rouba Ladrão que Rouba Ladrão.md",
+    "Pessoas/Augusto Leitão.md",
+    "Lugares/Cidades/São Roque.md",
+    "Pessoas/Arcídio Salustiano.md",
     "Missões/Secundárias/Onde Ladrões Cavam e Furtam.md",
     "Missões/Principais/2 - O Princípio da Sabedoria é o Temor..md",
     "Pessoas/João Veríssimo.md",
@@ -224,7 +224,6 @@
     "Tecnologias/ZSRC/README.md",
     "Pessoas/Cornélio Sussurro.md",
     "Pessoas/Bastião Manico.md",
-    "História de Caxiri/Quilombos.md",
     "Tecnologias/ZSRC/matinta.png",
     "Tecnologias/ZSRC/NovaCanaan.png",
     "Tecnologias/ZSRC/mineradores.png",

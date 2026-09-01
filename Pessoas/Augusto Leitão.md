@@ -10,4 +10,4 @@ Como muitos em São Roque, Augusto é apaixonado por [[Amélia Nascimento]].
 
 Usa amuletos referentes ao Candomblé.
 
-Após a morte de [[Euricélio Matos]], o Sítio dos Milagres foi atacado por quatro homens armados com facas e balestras, e os ladrões levaram as 20 cabeças de gado que eles cuidavam.  
+Após a morte de [[Euricélio Matos]], o [[Ladrão que Rouba Ladrão que Rouba Ladrão|Sítio dos Milagres foi atacado por quatro homens]] armados com facas e balestras, e os ladrões levaram as 20 cabeças de gado que eles cuidavam.  
