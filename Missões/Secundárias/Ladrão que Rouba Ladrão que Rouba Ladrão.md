@@ -85,6 +85,7 @@ Two-Fisted (Anula a penalidade de -4)
 | :-------------: | :---: | :-----: | :-: | :--: | :---: |
 | Pettengill Army |   6   |   .44   |  2  | 3d6  |  10   |
 
+---
 
 Os ladrões são parte do bando do jagunço [[João Queixada]], que voltarão a roubar de São Roque.
 ## Retorno
