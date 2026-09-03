@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Missões/Secundárias/Ladrão que Rouba Ladrão que Rouba Ladrão.md",
-                "mode": "preview",
+                "file": "Pessoas/Coronel Joaquim Maneta.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ladrão que Rouba Ladrão que Rouba Ladrão"
+              "title": "Coronel Joaquim Maneta"
             }
           }
         ]
@@ -198,8 +198,11 @@
   },
   "active": "b23c7c953cf39cd5",
   "lastOpenFiles": [
-    "Pessoas/Gregório Sansão.md",
+    "Missões/Secundárias/Quem os Confessa ou Abandona.md",
+    "Lugares/Estabelecimentos/Bar do Percival.md",
+    "Missões/Secundárias/Sem título.base",
     "Missões/Secundárias/Ladrão que Rouba Ladrão que Rouba Ladrão.md",
+    "Pessoas/Gregório Sansão.md",
     "Pessoas/Cornélio Sussurro.md",
     "Rivais/Magarefes.md",
     "Pessoas/Augusto Leitão.md",
@@ -222,8 +225,6 @@
     "Missões/Principais/0 - Poupe a Vara.md",
     "Missões/Secundárias/Tão Certamente Como as Fagulhas Voam Para Cima.md",
     "Missões/Secundárias/Cartas Para um Pecador.md",
-    "Missões/Secundárias/As Asas da Alvorada.md",
-    "Tecnologias/ZSRC/README.md",
     "Tecnologias/ZSRC/matinta.png",
     "Tecnologias/ZSRC/NovaCanaan.png",
     "Tecnologias/ZSRC/mineradores.png",
@@ -240,7 +241,6 @@
     "Deadlands Doc - Carta Vale do Paraíba.png",
     "Deadlands Doc - Carta São Genásio p Mirtes 1.png",
     "Suçuarana",
-    "Lugares/Cidades/aaa",
-    "Lugares/Marcos de interesse"
+    "Lugares/Cidades/aaa"
   ]
 }
